@@ -1,2 +1,2 @@
-# Urban-SSM
-Official implementation for Urban-SSM
+# Damba-ST
+Official implementation for Damba-ST
